@@ -1,0 +1,13 @@
+12
+CapableOf 0
+HasSubEvent 1
+AtLocation 2
+HasProperty 3
+xReason 4
+MadeUpOf 5
+xNeed 6
+NotDesires 7
+Desires 8
+xWant 9
+Causes 10
+ObjectUse 11
